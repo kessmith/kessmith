@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Keshawn. I am a current Master of Science student in Computer and Electrical Engineering at the University of Hartford in West Hartford, CT
-- 👀 I’m interested in Data Engineering, Data Science, Artificial Intelligence and Machine Learning, Graph Theories, Computer Vision, IoT, and most special Robotics
+- 👋 Hi, I’m Keshawn. I am a current PhD Student studying Electrical Engineering at the University of Connecticut
+- 👀 I’m interested in Artificial Intelligence, Graph Theories, Computer Vision, IoT, and most special Robotics
 - 🌱 I’m currently developing a personal portofolio for myself to display a lot of my first hand Data, AI, and Robotics related projects that I have been working or have completed.
 - 🌱 I am also currently completing research related projects in conjunction with my interest in the fields of Data Science, AI, Robotics, IoT and Computer Vision. 
 - 💞️ I’m looking to collaborate on anything related to Robotics and AI. And I am open to discuss all request to collaborate.
